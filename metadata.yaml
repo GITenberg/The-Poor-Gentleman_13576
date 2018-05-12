@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hendrik_Conscience
     - http://nl.wikipedia.org/wiki/Hendrik_Conscience
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13576#The-Poor-Gentleman
 gutenberg_issued: '2004-10-02'
 gutenberg_type: Text
 identifiers:
